@@ -1,9 +1,9 @@
 # DL4YHF-FrequencyCounterVK5Mods
 Additional clocking options for the DL4YHF frequency counter firmware by Erich Heinzle VK5HSE
 
-Modifications to the 16F628 firmware to allow other clock speeds to be used for the 16F628
+Modifications to the DL4YHF 16F628 firmware allow other clock speeds to be used for the 16F628...
 
-original firmware supports the following 16F629 clocks:
+original firmware supports the following 16F628 clocks:
 
 	4MHz
 	20MHz
