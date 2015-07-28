@@ -29,7 +29,7 @@ v1.02 gerbers in a zip file can be downloaded and can be used to order PCBs.
 
 The PCBs shown in AR magazine were made by hackvana.com with the gerbers in this repository. Consider getting a bunch of them for a club construction night!
 
-The PCB designs are compatible with the cheap surplus Aztronic, 40 pin, 4 digit common anode displays described in the WIA Amateur Radio magazine August 2015 edition.
+The PCB designs are compatible with the cheap surplus Aztronic, 40 pin, 4 digit common anode displays described in the WIA Amateur Radio magazine August 2015 edition. Aztronics may have v1.02 PCBs from time to time if you do not roll your own or have some made using the zipped gerber files.
 
 The PCB is also compatible with DL4YHF's original common anode firmware for 4 and 20MHz MCU clock frequencies.
 
