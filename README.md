@@ -35,4 +35,8 @@ The PCB is also compatible with DL4YHF's original common anode firmware for 4 an
 
 The PCB design is licenced under the TAPR open hardware licence - see http://www.tapr.org/OHL
 
+The PCB layout design file has been added to the repository. It is in gEDA PCB format, which can be read, of course, by gEDA PCB, and also by pcb-rnd - see repo.hu/projects/pcb-rnd
+
+The bill of materials is on the gerber file silkscreen layers, and can also be viiewed on the top and bottom silk text of the layout file in your chosen layout editor.
+
 No warranties express or implied, particularly in relation to the functionality of the optional 5th digit!!!
